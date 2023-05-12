@@ -1,0 +1,164 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f6f6fa;
+  padding: 40px;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: #fff;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+}
+.title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-top: 18px;
+  margin-bottom: 64px;
+}
+.main-content {
+  padding: 88px;
+}
+.project-item {
+  background-color: yellow;
+}
+
+aside {
+  background-color: #e0ebfe;
+}
+
+img {
+  margin-top: 40px;
+  width: 370px;
+}
+
+h3 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+}
+span {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+}
+p {
+  margin: 0;
+}
+.number {
+  text-decoration: none;
+  color: #161d2a;
+  margin-left: 10px;
+}
+.email {
+  color: #72a7fe;
+  margin-left: 10px;
+}
+
+.side-bar {
+  margin-top: 51px;
+  margin-left: 40px;
+}
+
+.list-aside {
+  margin-top: -5px;
+  margin-left: -22px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #6d9bf5;
+}
+.item {
+  color: #161d2a;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+}
+.contact-container {
+  margin-top: -5px;
+}
+.language {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.project {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+}
+ol {
+  padding: 0;
+  margin: 0 0 48px 18px;
+}
+.email-project {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  text-decoration-line: underline;
+  color: #005fff;
+  margin-left: 16px;
+}
+h4 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+ul {
+  margin-bottom: 16px;
+}
+.company-name {
+  color: #6d9bf5;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+h5 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin: 12px, 0, 8px, 0;
+}
+.my-profession {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  margin-bottom: 18px;
+}
+.work-to-do {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-left: -22px;
+}
+.last-item-work {
+  margin-bottom: 36px;
+}
